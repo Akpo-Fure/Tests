@@ -16,3 +16,6 @@ const distanceCalc = (speed, time) => {
 }
 
 console.log(distanceCalc(50, 6))
+
+
+//Omo i am tired
